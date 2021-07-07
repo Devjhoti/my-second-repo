@@ -7,12 +7,18 @@ h1{
     background-color:royalblue;
 }
 .p1{
-    border: solid 5px;
-    padding: 2px;
-    margin-right: 50%;
+    border: solid 2px;
+    padding: 2px 2px 1px 2px;
+    margin-right: 75%;
     text-align: center;
 }
 .rahul{
-    height: 100px;
+    height: 150px;
     width: 125px;
+}
+.p2{
+    border: solid 2px;
+    padding: 2px 2px 1px 2px;
+    margin-right: 75%;
+    text-align: center;
 }
