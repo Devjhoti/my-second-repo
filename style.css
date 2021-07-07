@@ -6,5 +6,7 @@ h1{
     background-color:royalblue;
 }
 .p1{
-    border: solid 20px;
+    border: solid 5px;
+    padding: 2px;
+    margin-right: 50%;
 }
